@@ -1,2 +1,2 @@
-# documente-votre-syst-me-de-pizzeria
+# documente-votre-système-de-pizzeria
 OC projet 9
